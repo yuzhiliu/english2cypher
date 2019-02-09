@@ -150,8 +150,8 @@ if __name__ == "__main__":
 
 	args = get_args(extras)
 
-	if not args["skip_extract"]:
-		download_gqa(args)
+	#if not args["skip_extract"]:
+#		download_gqa(args)
 
 	print("Building...")
 	etl(args)

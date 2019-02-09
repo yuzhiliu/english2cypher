@@ -97,12 +97,12 @@ line_id
 line_name
 on
 What
-architectural
 Does
 have
-styles
+architectural
 size
 architecture
+styles
 Which
 lines
 var8
@@ -111,10 +111,10 @@ var10
 var11
 stations
 and
+Grove
 clean
 big
 plays
 at
 style
 disabled
-access
